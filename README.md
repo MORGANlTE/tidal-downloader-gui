@@ -11,5 +11,7 @@ Yeah
 
 ## Requirements (Windows):
 `pip install customtkinter tidalapi pillow requests pyinstaller`
+
 `winget install ffmpeg`
+
 rename `sample_tidal_settings.json` to `tidal_settings.json`.
